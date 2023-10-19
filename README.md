@@ -1,4 +1,5 @@
-# Midterm
+# POKEDEX-API-NEW-
+
 
 ## Objective
 Using the provided files, dynamically create a Pokédex that is divided by type and sorted alphabetically.
